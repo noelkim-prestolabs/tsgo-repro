@@ -1,0 +1,30 @@
+{
+  "name": "tsgo-repro",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "packageManager": "pnpm@10.19.0",
+  "devDependencies": {
+    "@types/node": "^25.0.3",
+    "@types/react": "^19.0.14",
+    "@types/react-dom": "^19.0.6",
+    "@typescript/native-preview": "7.0.0-dev.20260108.1",
+    "typescript": "^5.9.3"
+  },
+  "dependencies": {
+    "bunja": "^2.0.0",
+    "date-fns": "^4.1.0",
+    "next": "15.5.9",
+    "next-intl": "3.25.3",
+    "react": "19.0.3",
+    "react-dom": "19.0.3",
+    "sharp": "0.34.5",
+    "use-intl": "3.26.5"
+  }
+}
